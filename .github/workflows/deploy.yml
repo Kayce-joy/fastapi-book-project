@@ -26,4 +26,4 @@ jobs:
       - name: Deploy application
         run: |
           echo "Deploying application..."
-          # Add deployment commands (e.g., SSH into the server, pull latest changes, restart FastAPI)
+          # Add deployment commands (e.g, SSH into the server, pull latest changes, restart FastAPI)
